@@ -1,0 +1,6 @@
+package com.javagroup.sms.service;
+
+public class StudentServiceImpl implements StudentService {
+	
+
+}

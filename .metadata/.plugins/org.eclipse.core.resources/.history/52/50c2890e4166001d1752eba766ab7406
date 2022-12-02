@@ -1,0 +1,5 @@
+package com.javagroup.sms.entity;
+
+public class Student {
+
+}

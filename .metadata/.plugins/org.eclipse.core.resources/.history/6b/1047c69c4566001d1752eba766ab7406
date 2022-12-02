@@ -1,0 +1,5 @@
+package com.javagroup.sms.controller;
+
+public class StudentController {
+
+}
